@@ -1,2 +1,2 @@
 # ProcessingProjects
-Generative design projects made using Processing
+Generative design projects made using Processing.
